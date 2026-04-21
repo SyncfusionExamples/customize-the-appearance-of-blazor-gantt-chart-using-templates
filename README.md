@@ -1,4 +1,4 @@
-# Customize the appearance of Blazor Gantt Charts Using Templates
+# Customize the Appearance of Blazor Gantt Charts Using Templates
 
 This repository contains a quick-start sample that demonstrates how to customize the visual appearance of the Syncfusion Blazor Gantt Chart using templates in a  Blazor Web App. The sample focuses on modifying the presentation of Gantt Chart elements while preserving the built-in scheduling and rendering behavior.
 
@@ -28,7 +28,7 @@ The sample highlights commonly used template scenarios that are applicable to pr
 - .NET SDK 8.0 or later
 - Syncfusion Blazor Gantt NuGet package
 
-## How to Run the Project
+## How to run the project
 
 1. Clone or checkout this repository to a local folder.
 2. Open the solution file in Visual Studio 2022 (or later)
