@@ -1,12 +1,14 @@
-# Customize the appearance of Blazor Gantt Charts Using Templates
+# Customize the Appearance of Blazor Gantt Charts Using Templates
 
-This repository contains a quick-start sample that demonstrates how to customize the visual appearance of the Syncfusion Blazor Gantt Chart using templates in a Blazor Server application. The sample focuses on modifying the presentation of Gantt Chart elements while preserving the built-in scheduling and rendering behavior.
+This repository contains a quick-start sample that demonstrates how to customize the visual appearance of the Syncfusion Blazor Gantt Chart using templates in a  Blazor Web App. The sample focuses on modifying the presentation of Gantt Chart elements while preserving the built-in scheduling and rendering behavior.
 
-## Project Overview
+## Project overview
 
-The Syncfusion Blazor Gantt Chart provides template support to control how specific UI elements are rendered. In this project, templates are applied to taskbars, milestones, labels, and tooltips to achieve customized layouts and visual styles. This approach allows the Gantt Chart to display enriched content and improved visuals without altering the underlying data structure or component logic.
+The Syncfusion Blazor Gantt Chart provides template support to control how specific UI elements are rendered. In this project, templates are applied to taskbars, milestones, labels, and tooltips to achieve customized layouts and visual styles. 
 
-Template customization helps align the Gantt Chart appearance with application-specific UI requirements and branding guidelines. The sample highlights commonly used template scenarios that are applicable to project planning and task tracking views.
+Template customization enables the Gantt Chart to display enriched content and improved visuals without modifying the underlying data model or component logic. This approach is especially useful for aligning the Gantt Chart UI with application‑specific design requirements and branding guidelines.
+
+The sample highlights commonly used template scenarios that are applicable to project planning and task tracking views.
 
 ## Features
 
@@ -22,19 +24,27 @@ Template customization helps align the Gantt Chart appearance with application-s
 
 ## Prerequisites
 
-- Visual Studio 2026
-- .NET SDK with Blazor Server support
+- Visual Studio 2022 (or later)
+- .NET SDK 8.0 or later
 - Syncfusion Blazor Gantt NuGet package
 
 ## How to run the project
 
 1. Clone or checkout this repository to a local folder.
-2. Open the solution file in Visual Studio 2026.
-3. Rebuild the solution to restore the required NuGet packages.
-4. Run the application and navigate to the page hosting the Gantt Chart.
-5. Review the applied templates for taskbars, milestones, tooltips, and labels.
+2. Open the project file (`.csproj`) in Visual Studio 2022 or later.
+3. Restore the required NuGet packages.
+4. Register your Syncfusion license key (if not already registered).
+5. Run the application.
+6. Navigate to the page hosting the Gantt Chart to review the applied templates for taskbars, milestones, tooltips, and labels.
 
+## Syncfusion License
 
+This sample uses the Syncfusion Blazor components, which require a valid Syncfusion license.
+
+- Community License: https://www.syncfusion.com/products/communitylicense
+- Trial License: https://www.syncfusion.com/account/manage-trials/start-trials
+
+Ensure the license key is registered before running the application.
 
 
 
