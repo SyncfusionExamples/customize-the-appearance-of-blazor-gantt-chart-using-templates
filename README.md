@@ -1,6 +1,6 @@
 # Customize the Appearance of Blazor Gantt Charts Using Templates
 
-The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+The [Blazor Gantt Chart](https://www.syncfusion.com/gantt-sdk/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
 
 This repository contains a quick-start sample that demonstrates how to customize the visual appearance of the Syncfusion Blazor Gantt Chart using templates in a  Blazor Web App. The sample focuses on modifying the presentation of Gantt Chart elements while preserving the built-in scheduling and rendering behavior.
 
@@ -20,9 +20,9 @@ The sample highlights commonly used template scenarios that are applicable to pr
 - Custom label rendering for Gantt Chart tasks
 - Implementation based on Syncfusion Blazor Gantt Chart in a Blazor Server app
 
-**Documentation**: https://blazor.syncfusion.com/documentation/gantt-chart/appearance-and-customization 
+**Documentation**: https://blazor.syncfusion.com/documentation/gantt-chart/appearance-and-customization?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples
 
-**Online example**: https://blazor.syncfusion.com/demos/gantt-chart/taskbar-template
+**Online example**: https://blazor.syncfusion.com/demos/gantt-chart/taskbar-template?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples
 
 ## Prerequisites
 
@@ -40,8 +40,8 @@ The sample highlights commonly used template scenarios that are applicable to pr
 6. Navigate to the page hosting the Gantt Chart to review the applied templates for taskbars, milestones, tooltips, and labels.
 
 ## Related links
-[Learn More about Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Learn More about Blazor Gantt Chart](https://www.syncfusion.com/gantt-sdk/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads/gantt-sdk?tag=es-ft-blazor-gantt-chart-banner) <br/><br/>
 [Pricing](https://www.syncfusion.com/sales/pricing?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
 [Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/gantt-chart?title=create-a-gantt-chart-component-in-a-blazor-webassembly) <br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/blazor-components) <br/><br/>
@@ -51,8 +51,8 @@ The sample highlights commonly used template scenarios that are applicable to pr
 
 This sample uses the Syncfusion Blazor components, which require a valid Syncfusion license.
 
-- Community License: https://www.syncfusion.com/products/communitylicense
-- Trial License: https://www.syncfusion.com/account/manage-trials/start-trials
+- Community License: https://www.syncfusion.com/products/communitylicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples
+- Trial License: https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples
 
 Ensure the license key is registered before running the application.
 
